@@ -4,6 +4,10 @@ This repository delves into understanding influenza vaccination behavior, specif
 ![vaccine](https://github.com/khot2003/FLU-SHOT-LEARNING-PREDICT-H1N1-AND-SEASONAL-FLU-VACCINES/assets/105428024/89e9792c-f78e-486d-b83a-4f74ec828b60)
 <img src="https://github.com/khot2003/FLU-SHOT-LEARNING-PREDICT-H1N1-AND-SEASONAL-FLU-VACCINES/assets/105428024/67824ea5-f926-4339-bdff-fc789e9b6686" width="300", height="300">
 ![image](https://github.com/khot2003/FLU-SHOT-LEARNING-PREDICT-H1N1-AND-SEASONAL-FLU-VACCINES/assets/105428024/67824ea5-f926-4339-bdff-fc789e9b6686)
+<div style="text-align: center">
+  <img src="https://github.com/khot2003/FLU-SHOT-LEARNING-PREDICT-H1N1-AND-SEASONAL-FLU-VACCINES/assets/105428024/4f437d66-050b-484c-8139-1388ade0a063" alt="Image description">
+</div>
+
 
 
 
