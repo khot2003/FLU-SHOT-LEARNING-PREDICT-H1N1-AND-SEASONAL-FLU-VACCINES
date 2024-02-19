@@ -6,7 +6,7 @@ This repository delves into understanding influenza vaccination behavior, specif
 
 
 <div style="text-align: center">
-                                                   <img src="https://github.com/khot2003/FLU-SHOT-LEARNING-PREDICT-H1N1-AND-SEASONAL-FLU-VACCINES/assets/105428024/d1824238-6333-4198-9272-18f62a882e64" alt="Image description>
+                                                   <img src="https://github.com/khot2003/FLU-SHOT-LEARNING-PREDICT-H1N1-AND-SEASONAL-FLU-VACCINES/assets/105428024/d1824238-6333-4198-9272-18f62a882e64" alt="Image description">
 </div>
 
 
