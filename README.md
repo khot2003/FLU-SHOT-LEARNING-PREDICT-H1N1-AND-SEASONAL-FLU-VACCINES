@@ -11,9 +11,11 @@ Ultimately, understanding what drives vaccine acceptance allows us to develop ta
 # Research Paper Link: https://ieeexplore.ieee.org/document/10688147?denied=
 
 # OBJECTIVES:
-1.To identify the key factors influencing the H1N1 vaccine and Seasonal vaccine.
-2.To apply data visualization techniques to gain insight by generating charts like pie, bar, line, and violin. 
-3.To apply Machine Learning techniques to predict if a given individual is vaccinated by H1N1 / Seasonal vaccine or not.
+-1.To identify the key factors influencing the H1N1 vaccine and Seasonal vaccine.
+
+-2.To apply data visualization techniques to gain insight by generating charts like pie, bar, line, and violin.
+
+-3.To apply Machine Learning techniques to predict if a given individual is vaccinated by H1N1 / Seasonal vaccine or not.
 
 
 
