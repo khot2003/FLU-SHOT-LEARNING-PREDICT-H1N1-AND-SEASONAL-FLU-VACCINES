@@ -8,12 +8,12 @@ Furthermore, we utilize various machine learning models to predict individualsâ€
 Ultimately, understanding what drives vaccine acceptance allows us to develop targeted interventions and promote optimal immunization coverage, leading to improved public health outcomes. The aim of this project is to leverage data-driven insights to enhance vaccine uptake and prepare for future influenza epidemics through informed public health initiatives.
 ![vaccine](https://github.com/khot2003/FLU-SHOT-LEARNING-PREDICT-H1N1-AND-SEASONAL-FLU-VACCINES/assets/105428024/89e9792c-f78e-486d-b83a-4f74ec828b60)
 
-##Research Paper Link:https://ieeexplore.ieee.org/document/10688147?denied=
+# Research Paper Link: https://ieeexplore.ieee.org/document/10688147?denied=
 
-##OBJECTIVES:
-To identify the key factors influencing the H1N1 vaccine and Seasonal vaccine.
-To apply data visualization techniques to gain insight by generating charts like pie, bar, line, and violin.
-To apply Machine Learning techniques to predict if a given individual is vaccinated by H1N1 / Seasonal vaccine or not.
+# OBJECTIVES:
+1.To identify the key factors influencing the H1N1 vaccine and Seasonal vaccine.
+2.To apply data visualization techniques to gain insight by generating charts like pie, bar, line, and violin. 
+3.To apply Machine Learning techniques to predict if a given individual is vaccinated by H1N1 / Seasonal vaccine or not.
 
 
 
